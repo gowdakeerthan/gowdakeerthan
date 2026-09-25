@@ -1,5 +1,5 @@
 # 💫 About Me:
-am currently studying cybersecurity engineering networking and linux fundamentals 
+Am currently studying cybersecurity engineering networking and linux fundamentals 
 
 
 ## 🌐 Socials:
